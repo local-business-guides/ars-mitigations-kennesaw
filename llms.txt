@@ -15,7 +15,7 @@
 - Remodeler
 
 ## Guides
-- [mold remediation kennesaw homeowner hiring guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/mold-remediation-kennesaw/): Searching mold remediation kennesaw? Learn what to ask, what to prepare, and when to get help for your Kennesaw home.
+- [Kennesaw Mold Remediation in Georgia](https://local-business-guides.github.io/ars-mitigations-kennesaw/kennesaw-mold-remediation/): Get help with mold and water damage in Kennesaw, with restoration support for your home or business available around the clock. Call +1770-516-4081.
 - [water damage cleanup near me for Kennesaw homeowners](https://local-business-guides.github.io/ars-mitigations-kennesaw/water-damage-cleanup-near-me/): Need water damage cleanup near me? Get practical safety, preparation, and hiring guidance for water damage in Kennesaw.
 - [Choosing flood restoration companies near me](https://local-business-guides.github.io/ars-mitigations-kennesaw/flood-restoration-companies-near-me/): Searching for flood restoration companies near me? Use this Kennesaw guide to prepare for cleanup and ask better hiring questions.
 - [Water damage restoration service Kennesaw hiring guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/water-damage-restoration-service-kennesaw/): Water damage restoration service Kennesaw homeowners can contact for help. Learn what to document, ask, and prepare before a visit.
@@ -25,7 +25,10 @@
 - [A Customer Guide to mold remediation in kennesaw](https://local-business-guides.github.io/ars-mitigations-kennesaw/mold-remediation-in-kennesaw/): Plan mold remediation in kennesaw with practical hiring questions, preparation tips, and moisture concerns for your Kennesaw, Georgia home.
 - [Choosing the best mold remediation in Kennesaw](https://local-business-guides.github.io/ars-mitigations-kennesaw/best-mold-remediation/): Compare the best mold remediation options in Kennesaw with practical questions about cleanup plans, material handling and project expectations.
 - [A homeowner's guide to local mold remediation](https://local-business-guides.github.io/ars-mitigations-kennesaw/local-mold-remediation/): Prepare for local mold remediation in Kennesaw with a simple visit checklist, access tips and questions about cleanup and repairs.
-- [Kennesaw Mold Remediation in Georgia](https://local-business-guides.github.io/ars-mitigations-kennesaw/kennesaw-mold-remediation/): Get help with mold and water damage in Kennesaw, with restoration support for your home or business available around the clock. Call +1770-516-4081.
+- [mold remediation kennesaw homeowner hiring guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/mold-remediation-kennesaw/): Searching mold remediation kennesaw? Learn what to ask, what to prepare, and when to get help for your Kennesaw home.
+
+## Newsroom
+- [ARS Mitigations Shares Kennesaw Mold Remediation Resources in Four Formats](https://local-business-guides.github.io/ars-mitigations-kennesaw/news/2026-10-19-ars-mitigations-shares-kennesaw-mold-remediation-r/): ARS Mitigations released a Kennesaw mold remediation guide with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-19)
 
 ## Pages
 - [Kennesaw Mold Remediation in Georgia](https://local-business-guides.github.io/ars-mitigations-kennesaw/): Get help with mold and water damage in Kennesaw, with restoration support for your home or business available around the clock. Call +1770-516-4081.
@@ -34,4 +37,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ars-mitigations-kennesaw/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/ars-mitigations-kennesaw/news/rss.xml)
 - [Main resource site](https://ars-kennesaw-mold.localwebsites.chatgpt.site)
