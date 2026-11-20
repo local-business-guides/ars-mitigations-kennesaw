@@ -15,16 +15,21 @@
 - Remodeler
 
 ## Guides
-- [Remodeler Kennesaw Homeowner Planning Guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/remodeler-kennesaw/): Remodeler Kennesaw planning advice to help Kennesaw, Georgia homeowners compare scopes, prepare rooms, and discuss repairs before work begins.
-- [Kennesaw Mold Remediation in Georgia](https://local-business-guides.github.io/ars-mitigations-kennesaw/kennesaw-mold-remediation/): Get help with mold and water damage in Kennesaw, with restoration support for your home or business available around the clock. Call +1770-516-4081.
+- [Mold Remediation in Kennesaw](https://local-business-guides.github.io/ars-mitigations-kennesaw/kennesaw-mold-remediation/): For mold remediation in Kennesaw, the work should address the moisture problem as well as the affected materials.
 - [water damage cleanup near me for Kennesaw homeowners](https://local-business-guides.github.io/ars-mitigations-kennesaw/water-damage-cleanup-near-me/): Need water damage cleanup near me? Get practical safety, preparation, and hiring guidance for water damage in Kennesaw.
 - [Choosing flood restoration companies near me](https://local-business-guides.github.io/ars-mitigations-kennesaw/flood-restoration-companies-near-me/): Searching for flood restoration companies near me? Use this Kennesaw guide to prepare for cleanup and ask better hiring questions.
 - [Water damage restoration service Kennesaw hiring guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/water-damage-restoration-service-kennesaw/): Water damage restoration service Kennesaw homeowners can contact for help. Learn what to document, ask, and prepare before a visit.
 - [Carpet cleaning service Kennesaw hiring guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/carpet-cleaning-service-kennesaw/): Carpet cleaning service Kennesaw: prepare your rooms, ask useful questions, and plan carpet care for your Kennesaw home.
 - [Fire damage restoration service Kennesaw customer guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/fire-damage-restoration-service-kennesaw/): Fire damage restoration service Kennesaw: learn what to document and ask before arranging restoration for your Kennesaw property.
+- [Remodeler Kennesaw Homeowner Planning Guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/remodeler-kennesaw/): Remodeler Kennesaw planning advice to help Kennesaw, Georgia homeowners compare scopes, prepare rooms, and discuss repairs before work begins.
 - [A Customer Guide to mold remediation in kennesaw](https://local-business-guides.github.io/ars-mitigations-kennesaw/mold-remediation-in-kennesaw/): Plan mold remediation in kennesaw with practical hiring questions, preparation tips, and moisture concerns for your Kennesaw, Georgia home.
 - [Choosing the best mold remediation in Kennesaw](https://local-business-guides.github.io/ars-mitigations-kennesaw/best-mold-remediation/): Compare the best mold remediation options in Kennesaw with practical questions about cleanup plans, material handling and project expectations.
 - [A homeowner's guide to local mold remediation](https://local-business-guides.github.io/ars-mitigations-kennesaw/local-mold-remediation/): Prepare for local mold remediation in Kennesaw with a simple visit checklist, access tips and questions about cleanup and repairs.
+- [Can I Hire a Mold Company in Kennesaw After a Leak?](https://local-business-guides.github.io/ars-mitigations-kennesaw/can-i-hire-a-mold-company-in-kennesaw-after-a-leak/): If you're asking, "can i hire a mold company in kennesaw after a leak?" Yes, you can contact a mold company as soon as you find a leak or signs of moisture, a
+- [What to Ask a Restoration Company in Kennesaw Before Hiring?](https://local-business-guides.github.io/ars-mitigations-kennesaw/what-to-ask-a-restoration-company-in-kennesaw-before-hiring/): If you're asking what to ask a restoration company in kennesaw before hiring, start with how they inspect the damage, what work they recommend, and what is
+- [Emergency Sewage Cleanup in Kennesaw](https://local-business-guides.github.io/ars-mitigations-kennesaw/emergency-sewage-cleanup-in-kennesaw/): For emergency sewage cleanup in Kennesaw, contact a qualified cleanup professional promptly and keep people and pets away from the contaminated area.
+- [Smoke Damage Cleanup in Kennesaw After Kitchen Fire](https://local-business-guides.github.io/ars-mitigations-kennesaw/smoke-damage-cleanup-in-kennesaw-after-kitchen-fire/): If you're looking for smoke damage cleanup in Kennesaw after a kitchen fire, the right first step is to have the affected rooms and materials assessed before
+- [Water Removal in Kennesaw for a Flooded Basement](https://local-business-guides.github.io/ars-mitigations-kennesaw/water-removal-in-kennesaw-for-a-flooded-basement/): If you're looking for water removal in Kennesaw for a flooded basement, the water should be removed and the wet area checked as soon as it is safe to enter.
 - [mold remediation kennesaw homeowner hiring guide](https://local-business-guides.github.io/ars-mitigations-kennesaw/mold-remediation-kennesaw/): Searching mold remediation kennesaw? Learn what to ask, what to prepare, and when to get help for your Kennesaw home.
 
 ## Newsroom
@@ -45,4 +50,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ars-mitigations-kennesaw/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/ars-mitigations-kennesaw/news/rss.xml)
-- [Main resource site](https://ars-kennesaw-mold.localwebsites.chatgpt.site/news/2026-11-03-ars-mitigations-publishes-guide-on-carpet-cleaning-in)
+- [Main resource site](https://ars-kennesaw-mold.localwebsites.chatgpt.site/news/2026-11-18-ars-mitigations-publishes-mold-guide-alongside-new-video-and)
